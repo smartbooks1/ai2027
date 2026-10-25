@@ -3,20 +3,20 @@
   "autoDiscover": false,
   "books": [
     {
-      "file": "Sample1_머리말.PDF"
+      "file": "오픈웨이트모델.PDF"
     },
     {
-      "file": "Sample2_차례.PDF"
+      "file": "음악에서영상까지.PDF"
     }
   ],
   "titleRules": [
     {
-      "contains": "Sample1",
-      "title": "1.PC에 오픈 웨이트 모델 설치 및 활용(준비 중)"
+      "contains": "오픈웨이트모델",
+      "title": "1.PC에 오픈 웨이트 모델 설치 및 활용"
     },
     {
-      "contains": "Sample2",
-      "title": "2. 음악부터 영상까지, AI로 만드는 나만의 콘텐츠(준비 중)"
+      "contains": "음악에서영상까지",
+      "title": "2. 음악부터 영상까지, AI로 만드는 나만의 콘텐츠"
     }
   ],
   "readerDefaults": {
