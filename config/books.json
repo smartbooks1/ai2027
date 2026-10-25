@@ -3,9 +3,6 @@
   "autoDiscover": false,
   "books": [
     {
-      "file": "Sample3_진정한빅뱅의시작.PDF"
-    },
-    {
       "file": "Sample1_머리말.PDF"
     },
     {
@@ -13,10 +10,6 @@
     }
   ],
   "titleRules": [
-    {
-      "contains": "Sample3",
-      "title": "1장. 실시간 정보에 강한 만능 AI, 그록(준비 중)"
-    },
     {
       "contains": "Sample1",
       "title": "2장.PC에 오픈 웨이트 모델 설치 및 활용(준비 중)"
