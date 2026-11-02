@@ -3,26 +3,26 @@
   "autoDiscover": false,
   "books": [
     {
-      "file": ""
+      "file": "AI2027_appendix_1.pdf"
     },
     {
-      "file": ""
+      "file": "AI2027_appendix_2.pdf"
     },
     {
-      "file": ""
+      "file": "AI2027_appendix_grok.pdf"
     }
   ],
   "titleRules": [
     {
-      "contains": "오픈웨이트모델",
+      "contains": "appendix_1",
       "title": "1장.PC에 오픈 웨이트 모델 설치 및 활용"
     },
     {
-      "contains": "음악부터",
+      "contains": "appendix_2",
       "title": "2장.음악부터 영상까지, AI로 만드는 나만의 콘텐츠"
     },
     {
-      "contains": "그록",
+      "contains": "grok",
       "title": "<덤&덤> 그록"
     }
   ],
