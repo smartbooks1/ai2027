@@ -1,6 +1,6 @@
 # Practice files
 
-Planned ZIP URL: `./practice-files/실습자료.zip`.
+ZIP URL: `./practice-files/AI2027_실습자료.zip`.
 
-The PC download button is currently disabled. Uploading the ZIP alone does not enable it; connect the download and confirmation when the materials are ready.
+The PC sidebar download link downloads the ZIP directly.
 Mobile shows a PC download notice on the home screen.
